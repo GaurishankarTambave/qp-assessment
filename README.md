@@ -111,3 +111,16 @@ CREATE TABLE orders (
     userId VARCHAR(255),
     items TEXT
 );
+
+// API are tested using Postman tool screen shots are added of that 
+![Add New Grocery Item](https://github.com/user-attachments/assets/6f46b315-3aaf-4659-846f-07df56ea0cc3)
+
+![View Existing Grocery Items](https://github.com/user-attachments/assets/4a28772b-8ad5-4256-b9d2-f904f3ab2c7c)
+
+![Update Grocery Item Details](https://github.com/user-attachments/assets/be6c84f0-b0fb-4ad1-a75c-d2a1755e60a9)
+
+![Remove Grocery Item](https://github.com/user-attachments/assets/3bef6ace-0dba-455f-b87e-acef9af1c166)
+
+![Manage Inventory Levels](https://github.com/user-attachments/assets/267d1038-dcec-449a-84b2-94797e6baaed)
+
+![user View Available Grocery Items](https://github.com/user-attachments/assets/1dc32442-26e4-4472-8911-864fda4df0fc)
